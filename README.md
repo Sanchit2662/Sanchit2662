@@ -3,6 +3,8 @@
   <img src="assets/banner.svg" alt="Welcome to Sanchit's Github" width="100%" />
 </p>
 
+<h2 align="center">🔗 Connect Me</h2>
+
 <!-- Connect -->
 <p align="center">
   <a href="https://github.com/Sanchit2662"><img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -61,13 +63,15 @@
 <!-- Statistics -->
 <h2 align="center">📊 Statistics</h2>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center">
+    <td align="center" width="100%">
       <kbd>
         <br>
-        &nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=Sanchit2662&label=PROFILE+VIEWS&color=0a0a0a&style=for-the-badge" alt="profile views" />&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=Sanchit2662&label=PROFILE+VIEWS&color=0a0a0a&style=for-the-badge" alt="profile views" />&nbsp;&nbsp;&nbsp;&nbsp;
         <br><br>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanchit2662&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=2a2a2a&custom_title=Profile+Activity" alt="activity graph" width="95%" />
+        <br>
         <sub><i>thanks for stopping by the batcave 🦇</i></sub>
         <br><br>
       </kbd>
