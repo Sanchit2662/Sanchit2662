@@ -19,27 +19,18 @@
 <!-- About Me -->
 <h2 align="center">🦇 About Me</h2>
 
-<table align="center">
-  <tr>
-    <td width="60%" valign="middle">
-      <p>
-        <b>Hey there! I'm Sanchit</b><br><br>
-        A <b>B.Tech AI &amp; ML</b> undergrad running on <b>Diet Coke</b> and a healthy obsession with minimalist dark themes.
-        The day is for survival. The night is when things actually happen: the gym, the IDE, and one more episode I definitely
-        shouldn't be starting at 2 AM. Code is my second language. Caffeine is my first.
-      </p>
-      <ul>
-        <li>🌙 Pretty much nocturnal. Best commits ship after midnight.</li>
-        <li>🏋️ Gym, code, repeat.</li>
-        <li>📺 Will absolutely finish a show in one sitting.</li>
-        <li>😴 Sleep is a feature I haven't shipped yet.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="assets/batman-circle.svg" width="280" alt="batman" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="assets/batman-circle.svg" width="260" alt="batman" />
+
+### Hey there! I'm Sanchit
+
+A **B.Tech AI & ML** undergrad running on **Diet Coke** and a healthy obsession with minimalist dark themes. The day is for survival. The night is when things actually happen: the gym, the IDE, and one more episode I definitely shouldn't be starting at 2 AM. Code is my second language. Caffeine is my first.
+
+🌙&nbsp; Pretty much nocturnal. Best commits ship after midnight.<br>
+🏋️&nbsp; Gym, code, repeat.<br>
+📺&nbsp; Will absolutely finish a show in one sitting.<br>
+😴&nbsp; Sleep is a feature I haven't shipped yet.
+
+<br clear="right">
 
 <br>
 
@@ -63,18 +54,11 @@
 <!-- Statistics -->
 <h2 align="center">📊 Statistics</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <br>
-      <img src="https://komarev.com/ghpvc/?username=Sanchit2662&label=PROFILE+VIEWS&color=0a0a0a&style=for-the-badge" alt="profile views" />
-      <br><br>
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanchit2662&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=a5a5a5&line=a5a5a5&point=ffffff&area=true&area_color=1a1a1a&height=120" alt="activity graph" height="80" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sanchit2662&label=PROFILE+VIEWS&color=0a0a0a&style=for-the-badge" alt="profile views" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanchit2662&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=a5a5a5&line=a5a5a5&point=ffffff&area=true&area_color=1a1a1a" alt="activity graph" height="120" />
+</p>
 
 <p align="center">
   <sub><i>thanks for stopping by the batcave 🦇</i></sub>
