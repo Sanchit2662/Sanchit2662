@@ -63,21 +63,22 @@
 <!-- Statistics -->
 <h2 align="center">📊 Statistics</h2>
 
-<table align="center" width="100%">
+<table align="center">
   <tr>
-    <td align="center" width="100%">
-      <kbd>
-        <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=Sanchit2662&label=PROFILE+VIEWS&color=0a0a0a&style=for-the-badge" alt="profile views" />&nbsp;&nbsp;&nbsp;&nbsp;
-        <br><br>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanchit2662&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=2a2a2a&custom_title=Profile+Activity" alt="activity graph" width="95%" />
-        <br>
-        <sub><i>thanks for stopping by the batcave 🦇</i></sub>
-        <br><br>
-      </kbd>
+    <td align="center" valign="middle">
+      <br>
+      <img src="https://komarev.com/ghpvc/?username=Sanchit2662&label=PROFILE+VIEWS&color=0a0a0a&style=for-the-badge" alt="profile views" />
+      <br><br>
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanchit2662&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=a5a5a5&line=a5a5a5&point=ffffff&area=true&area_color=1a1a1a&height=120" alt="activity graph" height="80" />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <sub><i>thanks for stopping by the batcave 🦇</i></sub>
+</p>
 
 <p align="center">
   <sub>· · ·</sub>
