@@ -28,5 +28,5 @@
 <br>
 
 <p align="center">
-  <sub><i>Open to internships and collaborations. Let's build something worth losing sleep over.</i></sub>
+  <sub><i>Open for collaborations. Let's build something worth losing sleep over.</i></sub>
 </p>
